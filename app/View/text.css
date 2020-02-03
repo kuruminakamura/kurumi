@@ -1,0 +1,33 @@
+#wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+/*header*/
+  header{
+  	background-color: : cyan;
+  	position: absolute;
+    padding: 10px;
+    height: 80px;
+  }
+  #head h1  {
+    position: absolute;
+  	float: right;
+}
+#head h1 a {
+   	font-size: 20px;
+  	font-size: 2.0rem;
+  }
+  	
+  #head ul  {
+    float: right;
+  	position: relative;
+  	top: 10px;
+  	right: 50px ;
+ }
+#head ul a{
+	font-size: 20px;
+	float: right;
+
+}
